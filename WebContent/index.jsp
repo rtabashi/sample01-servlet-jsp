@@ -7,7 +7,7 @@
 </head>
 <body>
 <h1>つぶやきアプリへようこそ</h1>
-<form action="/sample1/Login" method="POST">
+<form action="/sample01/Login" method="POST">
 ユーザー名：<input type="text" name="name"><br>
 パスワード：<input type="password" name="pass"><br>
 <input type="submit" value="ログイン">
